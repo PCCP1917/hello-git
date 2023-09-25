@@ -1,0 +1,66 @@
+[33mcommit 3e61d5f11dfaeaad42c007696fcb3d69219a2798[m[33m ([m[1;36mHEAD -> [m[1;32mlogin[m[33m)[m
+Merge: 53e33d3 d78a7ed
+Author: ZaHando <pablocesar.cespedes98@gmail.com>
+Date:   Mon Sep 25 16:17:51 2023 -0600
+
+    Merge branch 'main' into login
+
+[33mcommit d78a7ed83b46dd9a98304a73b97444af4c41d61b[m[33m ([m[1;32mmain[m[33m)[m
+Author: ZaHando <pablocesar.cespedes98@gmail.com>
+Date:   Mon Sep 25 16:14:55 2023 -0600
+
+    Git3 v2
+
+[33mcommit 53e33d3f5642db7e966eb664c5ae6f947e6dc442[m
+Author: ZaHando <pablocesar.cespedes98@gmail.com>
+Date:   Mon Sep 25 16:09:12 2023 -0600
+
+    Login
+
+[33mcommit 78b66f9251940cc171093a4104ac1dd7252b812d[m
+Author: ZaHando <pablocesar.cespedes98@gmail.com>
+Date:   Mon Sep 25 12:56:47 2023 -0600
+
+    este es mi quinto commit
+
+[33mcommit e96763de1c7f1a4c62aa7928cb833974ad6c146c[m[33m ([m[1;33mtag: clase_1[m[33m)[m
+Author: ZaHando <pablocesar.cespedes98@gmail.com>
+Date:   Mon Sep 25 12:52:44 2023 -0600
+
+    Pichancha
+
+[33mcommit 8e0dca3d15c5b8a58ae135726a460a27ade82ce4[m
+Author: ZaHando <pablocesar.cespedes98@gmail.com>
+Date:   Mon Sep 25 12:34:10 2023 -0600
+
+    A
+
+[33mcommit 897557a9a08cfc36e7d152d3bc1a048cc5c48179[m
+Author: ZaHando <pablocesar.cespedes98@gmail.com>
+Date:   Mon Sep 25 12:32:16 2023 -0600
+
+    Se modifica el git ignore
+
+[33mcommit 8b86fb687a1a37b8490007e321013e07a0d092bd[m
+Author: ZaHando <pablocesar.cespedes98@gmail.com>
+Date:   Mon Sep 25 12:25:57 2023 -0600
+
+    Se añade el .gitignore
+
+[33mcommit 76fb755645c16db5138b71806fa637e04d6eec69[m
+Author: ZaHando <pablocesar.cespedes98@gmail.com>
+Date:   Mon Sep 25 12:14:56 2023 -0600
+
+    Se actualiza el texto del print
+
+[33mcommit 26819cbcfe6c1de66c202a4f6fe6f3f5c6984576[m
+Author: ZaHando <pablocesar.cespedes98@gmail.com>
+Date:   Sun Sep 24 23:29:02 2023 -0600
+
+    Este es mi segundo commit
+
+[33mcommit a52cf24a0c395535751387a062c859f210b051ff[m
+Author: ZaHando <pablocesar.cespedes98@gmail.com>
+Date:   Sun Sep 24 23:24:20 2023 -0600
+
+    Este es mi primer commit
